@@ -123,7 +123,7 @@ The primary stakeholders for this system include hostel administrators, students
 
 ## 10. Team Members
 
-- **Calyx Ish** - Developer & Team Lead
+- **Calyx Ish** - Team Lead & Developer
     
 - **Justice Sarfo** - Developer
     
